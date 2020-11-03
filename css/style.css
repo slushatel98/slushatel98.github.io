@@ -54,12 +54,14 @@ footer {
     font-size: 1.1em !important;
 }
 .carousel-inner {
-    height: 500px;
+    height: 780px;
 }
+
+
 .carousel-inner img {
     transform: translateY(-30%);
-    width: 100%;
-    height: 100%;
+    width: 120%;
+    height: 120%;
 }
 .carousel-caption {
  position: absolute;
@@ -92,7 +94,7 @@ footer {
     line-height: 2;
     color: #888;
 }
-#love, #straingt, #3dyearpoem, #tree, #scream, #emptiness, #darkness, #night, #life, #breathe{
+#love, #straingt, #thirdyearpoem{
     border-top: 2px solid silver;
     font-family: "Miltonian Tattoo", cursive;
 }
