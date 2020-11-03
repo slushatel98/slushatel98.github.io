@@ -17,7 +17,10 @@ nav {
 body {
  background-color: rgb(253, 254, 255);
  color: navy;
+ font-weight: 200;
+ font-family: Georgia, serif;
 }
+
 h1 {font-family: "Shadows Into Light";
     text-align: center;
     text-transform: uppercase;
