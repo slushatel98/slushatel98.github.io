@@ -92,7 +92,8 @@ footer {
 }
 #aboutme .desc p{
     line-height: 2;
-    color: #888;
+    color: #black;
+    font: bold;
 }
 #love, #straingt, #thirdyearpoem{
     border-top: 2px solid silver;
